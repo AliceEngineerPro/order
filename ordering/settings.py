@@ -94,7 +94,7 @@ DATABASES = {
         'HOST': 'localhost',
         'NAME': 'ordering',
         'USER': 'root',
-        'PASSWORD': 'Amfc0-./',
+        'PASSWORD': '******',
         'POST': 3306,
         'OPTIONS': {'charset': 'utf8mb4'},
     }
