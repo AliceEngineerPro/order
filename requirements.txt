@@ -19,7 +19,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 optionaldict==0.1.2
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyMySQL==0.10.1
 pypng==0.0.20
 PyQRCode==1.2.1
